@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+
+# Production builds
+dist/
+
+# Portable JDKs
+jdk-17.0.19+10/
+jdk-21.0.11+10/
+openjdk.zip
+openjdk21.zip
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Android local compilation outputs and configs
+android/local.properties
+android/app/build/
+android/.gradle/
+android/capacitor-cordova-android-plugins/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
