@@ -145,19 +145,21 @@ Thank you for visiting my GitHub and exploring this project. Your time, interest
 
 ---
 
+---
+
 ## 💖 Thank You for Visiting!
 
-> *"Thank you so much for taking the time to explore Engineering Student Assistant!"* 🌟
+> *"Empowering students through clean software architecture is my passion."* 🎓
 
-Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+Thank you for exploring the Engineering Student Assistant! As a fellow student, engineering an all-in-one productivity hub that genuinely solves GPA tracking, attendance monitoring, and placement prep was a deeply meaningful project. Your time and review mean the world to me.
 
-- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
-- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+- 🌟 **Found this dashboard useful?** Leave a star to support open-source student productivity tools!
+- 📬 **Let's Collaborate:** If you have suggestions for new academic modules or engineering career features, feel free to open an issue or connect on [GitHub](https://github.com/SriniwasAwasthi).
 
-*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+*Wishing you immense success in your academic and engineering journey!* ✨
 
 ---
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Built to empower the next generation of engineers by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
