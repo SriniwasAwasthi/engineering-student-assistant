@@ -147,23 +147,6 @@ Thank you for visiting my GitHub and exploring this project. Your time, interest
 
 ---
 
-## 💖 Thank You for Visiting!
-
-> *"Empowering students through clean software architecture is my passion."* 🎓
-
-Thank you for exploring the Engineering Student Assistant! As a fellow student, engineering an all-in-one productivity hub that genuinely solves GPA tracking, attendance monitoring, and placement prep was a deeply meaningful project. Your time and review mean the world to me.
-
-- 🌟 **Found this dashboard useful?** Leave a star to support open-source student productivity tools!
-- 📬 **Let's Collaborate:** If you have suggestions for new academic modules or engineering career features, feel free to open an issue or connect on [GitHub](https://github.com/SriniwasAwasthi).
-
-*Wishing you immense success in your academic and engineering journey!* ✨
-
----
-
-<div align="center">
-  <sub>Built to empower the next generation of engineers by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
-</div>
-
 ## 🏛️ System Architecture
 
 ```mermaid
@@ -175,3 +158,17 @@ graph TD
     GPA --> Storage[("💾 Local Persistence Layer")]
     Attendance --> Storage
 ```
+
+---
+
+## 💖 Thank You for Visiting & Exploring Engineering Student Assistant 🎓✨!
+
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
+
+---
+<div align="center">
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
+</div>
