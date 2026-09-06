@@ -163,3 +163,15 @@ Thank you for exploring the Engineering Student Assistant! As a fellow student, 
 <div align="center">
   <sub>Built to empower the next generation of engineers by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
+
+## 🏛️ System Architecture
+
+```mermaid
+graph TD
+    Student["🎓 Student"] --> UI["💻 React Productivity Suite"]
+    UI --> GPA["📊 GPA & Credit Point Calculator"]
+    UI --> Attendance["📅 Attendance Goal Tracker"]
+    UI --> CodeLab["💻 Daily DSA Practice Module"]
+    GPA --> Storage[("💾 Local Persistence Layer")]
+    Attendance --> Storage
+```
