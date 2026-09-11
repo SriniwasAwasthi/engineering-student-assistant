@@ -108,7 +108,7 @@ To run this code on your computer, you need to install Node.js first. Here is ho
 Node.js runs the JavaScript code on your computer, and npm installs the project libraries.
 - Go to the official website: [nodejs.org](https://nodejs.org/)
 - Download the **LTS (Long Term Support)** version for your operating system (Windows/Mac/Linux).
-- Run the installer and click \"Next\" until finished.
+- Run the installer and click "Next" until finished.
 - To verify it is installed, open your terminal (Command Prompt or PowerShell on Windows) and type:
   ```bash
   node -v
@@ -148,10 +148,10 @@ graph TD
 
 ## 💖 Thank You for Visiting & Exploring Engineering Student Assistant 🎓✨!
 
-> *\"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey.\"* 🚀
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
 
 * 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
-* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)\
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)
   * 🌐 **LinkedIn:** [https://www.linkedin.com/in/sriniwas-awasthi/](https://www.linkedin.com/in/sriniwas-awasthi/).
 
 ---
